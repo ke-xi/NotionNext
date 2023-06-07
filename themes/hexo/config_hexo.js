@@ -1,5 +1,6 @@
 const CONFIG_HEXO = {
   HOME_BANNER_ENABLE: true,
+  // 3.14.1以后的版本中，欢迎语在blog.config.js中配置，用英文逗号','隔开多个。
   HOME_BANNER_GREETINGS: ['絶望抱くほど悪いわけじゃないけど🎉'], // 首页大图标语文字
 
   HOME_NAV_BUTTONS: true, // 首页是否显示分类大图标按钮
