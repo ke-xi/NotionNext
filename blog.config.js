@@ -309,9 +309,9 @@ const BLOG = {
     {
       name: 'ワールドイズマイン',
       artist: '初音ミク / ryo (supercell)',
-      url: 'https://music.163.com/song/media/outer/url?id=22677570.mp3',
+      url: 'https://music.163.com/song/media/outer/url?id=2137300345.mp3',
       cover:
-            'https://pic.yz001.online/images/2024/05/01/7DIO6.jpg'
+            'https://p1.music.126.net/Nl2BSza0iBD8w2pqPQf3HA==/109951168011418049.jpg'
     },
   ],
   MUSIC_PLAYER_METING: process.env.NEXT_PUBLIC_MUSIC_PLAYER_METING || false, // 是否要开启 MetingJS，从平台获取歌单。会覆盖自定义的 MUSIC_PLAYER_AUDIO_LIST，更多配置信息：https://github.com/metowolf/MetingJS
