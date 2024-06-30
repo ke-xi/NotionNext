@@ -307,8 +307,8 @@ const BLOG = {
   MUSIC_PLAYER_AUDIO_LIST: [
     // 示例音乐列表。除了以下配置外，还可配置歌词，具体配置项看此文档 https://aplayer.js.org/#/zh-Hans/
     {
-      name: 'ワールドイズマイン',
-      artist: '初音ミク / ryo (supercell)',
+      name: 'MIKU',
+      artist: 'Anamanaguchi / 初音ミク',
       url: 'https://music.163.com/song/media/outer/url?id=2137300345.mp3',
       cover:
             'https://p1.music.126.net/Nl2BSza0iBD8w2pqPQf3HA==/109951168011418049.jpg'
